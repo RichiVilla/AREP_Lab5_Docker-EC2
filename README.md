@@ -48,9 +48,13 @@ git clone https://github.com/RichiVilla/Lab03_AREP-25.git
    mvn clean install
 ```
 
-4. Run the App.java file:
+4. Run the HttpServer.java file or you can use:
+
+```
+   java -cp target/MicroSpring-1.0-SNAPSHOT.jar edu.escuelaing.spring.HttpServer   
+```
    
-5. Open the following address in your browser:
+6. Open the following address in your browser:
 ```
    http://localhost:8080
 ```
