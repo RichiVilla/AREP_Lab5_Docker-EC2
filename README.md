@@ -100,21 +100,22 @@ Running the HttpServer java file, we can check in the CMD if the program is look
 We can check all the services avaliable using the next code:
 
 ```
-java -cp target/WebServer-1.0-SNAPSHOT.jar edu.escuelaing.spring.Spring edu.escuelaing.spring.ServicesAvaliable "http://localhost:8080/<service>"
+java -cp target/MicroSpring-1.0-SNAPSHOT.jar edu.escuelaing.spring.Spring edu.escuelaing.spring.ServicesAvaliable "http://localhost:8080/<service>"
 ```
 
 Using the previous line, we can check the services, for example:
 
 1. Hello:
    
-![image](https://github.com/user-attachments/assets/3bcb5163-abfb-4a8c-ae2d-ba1edfa317f4)
+![image](https://github.com/user-attachments/assets/8c91cfc2-a101-4897-a6c2-2c6bfc69f688)
 
 2. Fecha-hora
 
-![image](https://github.com/user-attachments/assets/42c1ab8e-a413-4cf3-b95a-c2e55259fb1d)
+![image](https://github.com/user-attachments/assets/4f99a54b-039d-4029-8acf-e9b99194c75d)
 
 3. Sum:
 
-![image](https://github.com/user-attachments/assets/69622ff7-612f-4a75-8ede-ff5b945de160)
+![image](https://github.com/user-attachments/assets/a7ea0090-8176-4e91-a979-615ed72f3f72)
+
 
 
